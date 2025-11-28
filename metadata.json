@@ -1,0 +1,7 @@
+{
+  "name": "Dandelion Sentinel",
+  "description": "A 3D interactive demonstration of the Mimetic Receptacle bio-inspired drone system.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
